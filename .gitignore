@@ -6,3 +6,6 @@ frontend/.next/
 
 # Ignore environment files
 *.env
+
+# Ignore VSCode settings
+.vscode/
