@@ -1,11 +1,17 @@
-# Ignore all node_modules
+# Node modules
 node_modules/
 
-# Ignore Next.js build output
-frontend/.next/
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# Ignore environment files
-*.env
+# Build outputs
+.next/
+dist/
+build/
 
-# Ignore VSCode settings
-.vscode/
+# Env files
+.env
+.env.local
+
