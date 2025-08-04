@@ -93,7 +93,7 @@ Server running on port 5000
 
 ```bash
 # 1) Repo klonen
-git clone https://github.com/<DEIN-USER>/<DEIN-REPO>.git weather-widget-dashboard
+git clone https://github.com/monikabhole001/weather-widget-dashboard.git weather-widget-dashboard
 cd weather-widget-dashboard
 
 # 2) Backend vorbereiten
