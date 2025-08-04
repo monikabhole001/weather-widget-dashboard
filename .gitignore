@@ -1,0 +1,8 @@
+# Ignore all node_modules
+node_modules/
+
+# Ignore Next.js build output
+frontend/.next/
+
+# Ignore environment files
+*.env
